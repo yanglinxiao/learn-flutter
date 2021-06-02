@@ -51,7 +51,7 @@ class MyListItem extends StatelessWidget {
     return Container(
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
-          border: Border.all(width: 2, color: Colors.pink),
+          border: Border.all( width: 2, color: Colors.pink),
           color: Colors.greenAccent),
       margin: EdgeInsets.only(bottom: 10),
       child: Column(

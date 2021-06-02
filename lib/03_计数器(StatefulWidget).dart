@@ -60,7 +60,7 @@ class _MyHomePageBodyState extends State<MyHomePageBody> {
                 })
           ],
         ),
-        Text("当前计算的值: ${_count}")
+        Text("当前计算的值: $_count")
       ],
     );
   }
